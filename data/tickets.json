@@ -1,0 +1,41 @@
+{
+  "config": {
+    "openCategoryId": "1437240934583500810",
+    "closedCategoryId": "1437240971535450182",
+    "staffRoleId": "1427394995257606266",
+    "adminRoleId": null,
+    "closeRoleId": "1427394995257606266",
+    "deleteRoleId": "1427394995257606266",
+    "tempVoiceCategoryId": "1428493312561512578",
+    "tempVoiceLobbyName": "🟢 Oda Oluştur [+]",
+    "autoroleId": "1427391983583760445",
+    "swear": {
+      "enabled": true,
+      "family": true,
+      "religion": true,
+      "national": true,
+      "custom": []
+    },
+    "stayVoiceChannelId": "1437558518977658981",
+    "voiceStayChannelId": "1437558518977658981"
+  },
+  "nextNumber": 14,
+  "active": {
+    "ban-itiraz": {},
+    "oyuncu-sikayet": {},
+    "yonetici-gorus": {},
+    "yetkili-basvuru": {},
+    "vip": {}
+  },
+  "tempVoice": {},
+  "warnings": {
+    "1426713501228859394": {
+      "1136992326019981342": 1,
+      "426761923955261441": 4,
+      "920380741286768730": 0,
+      "1364682709691138059": 1,
+      "998873804103221319": 0
+    }
+  },
+  "rolePanels": {}
+}
