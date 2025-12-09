@@ -1,0 +1,18 @@
+{
+  "ticketPanel": {
+    "title": "Destek Sistemi",
+    "description": [
+      "Spam yapma, saygılı ol",
+      "Gereksiz talepler mute/ban sebebi olabilir",
+      "Açılan ticket 12 saat inaktif kalırsa kapatılır",
+      "Ban itirazı ve şikayet ticketlarında kanıt/Steam URL ekleyin"
+    ]
+  },
+  "link": {
+    "successTitle": "Hesap bağlama tamamlandı",
+    "announcementChannelId": "000000000000000050",
+    "announcementMessage": "{discordTag} Steam hesabını bağladı ve {reward} kredi kazandı!",
+    "imageUrl": "https://placehold.co/600x200?text=XNPBOT",
+    "rewardCredit": 50
+  }
+}

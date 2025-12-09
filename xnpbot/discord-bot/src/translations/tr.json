@@ -1,0 +1,9 @@
+{
+  "link": {
+    "alreadyLinked": "Bu Discord hesabı zaten linkli.",
+    "codeExpired": "Kod geçersiz veya süresi dolmuş."
+  },
+  "ticket": {
+    "panelTitle": "Destek Sistemi"
+  }
+}
