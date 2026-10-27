@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations>
+  <Translation Id="Link_Already" Value="Bu Steam hesabı zaten linkli." />
+  <Translation Id="Link_Code" Value="Kodun: {Code} — Discord'da /link {Code} komutunu kullan." />
+  <Translation Id="Link_Expired" Value="Kod süresi dolmuş, lütfen yeniden /link yaz." />
+</Translations>

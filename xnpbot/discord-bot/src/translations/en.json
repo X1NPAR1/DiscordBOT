@@ -1,0 +1,9 @@
+{
+  "link": {
+    "alreadyLinked": "You already linked an account.",
+    "codeExpired": "Code is invalid or expired."
+  },
+  "ticket": {
+    "panelTitle": "Support System"
+  }
+}
